@@ -7,7 +7,7 @@ import Vue from 'vue'
 //導入 MUI 的樣式
 import './lib/mui/css/mui.css'
 
-
+//哈哈
 //按需導入 mint-ui 中的組件
 import { Header } from 'mint-ui'
 Vue.component(Header.name, Header)
