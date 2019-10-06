@@ -40,8 +40,11 @@
 <style lang="scss" scoped>
 .app-container {
   padding-top: 40px;
+  padding-bottom: 50px;
   overflow-x: hidden;
 }
+
+// 解决动画方式
 .v-enter {
   opacity: 0;
   transform: translateX(100%);
